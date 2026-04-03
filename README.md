@@ -1,4 +1,3 @@
-PROVA FINALE - SISTEMI DI COMUNICAZIONE
 Questo progetto riguarda la realizzazione di un sistema di comunicazione digitale completo utilizzando due dispositivi ADALM-PLUTO (PlutoSDR) e il software MATLAB. L’obiettivo è trasmettere e ricevere un segnale modulato in 16-QAM, cercando di ricostruire la costellazione nel modo più fedele possibile nonostante la presenza di rumore e distorsioni introdotte dal canale.
 
 Durante lo sviluppo, particolare attenzione è stata posta alla progettazione del ricevitore, che deve compensare effetti indesiderati come rumore, sfasamento tra i dispositivi e disallineamento temporale del segnale. Questi fenomeni sono casuali e indipendenti tra loro, e rappresentano le principali difficoltà nella corretta ricezione del segnale.
